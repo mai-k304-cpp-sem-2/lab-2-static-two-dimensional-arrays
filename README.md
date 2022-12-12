@@ -1,1 +1,2 @@
-# lab-2-static-two-dimensional-arrays
+# prog-sem2-lab1-v15
+Программирование, Семестр №2, Лабораторная работы №2, Вариант №15
